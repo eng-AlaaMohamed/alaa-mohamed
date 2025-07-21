@@ -9,7 +9,7 @@
 - 🌱 I’m exploring deeper into **React.js**, **Next.js**, and **AI-powered interfaces**
 - 💡 I love building clean, responsive UIs with a focus on **user experience**
 - 🎯 Aspiring to become a **tech entrepreneur** in the field of **AI & Web Development**
-- 📫 You can reach me at: [your-email@example.com]
+- 📫 You can reach me at: [eng.a.mohamed.ali@gmail.com]
 
 ---
 
@@ -27,23 +27,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
 ![Redux](https://img.shields.io/badge/-Redux-593D88?logo=redux&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
-![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)  
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats
-
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
